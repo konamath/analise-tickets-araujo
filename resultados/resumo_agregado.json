@@ -1,0 +1,524 @@
+{
+  "contagens": [
+    {
+      "População": "Extração completa",
+      "Chamados": 199423,
+      "Respondentes": 7786,
+      "Resposta (%)": 3.9042638010660755,
+      "SLA preenchido": 97010,
+      "SLA (%)": 48.6453418111251,
+      "Menos de 36 s": 76835
+    },
+    {
+      "População": "Criação em 2025",
+      "Chamados": 198113,
+      "Respondentes": 7733,
+      "Resposta (%)": 3.903327898724465,
+      "SLA preenchido": 96251,
+      "SLA (%)": 48.58388899264561,
+      "Menos de 36 s": 76835
+    }
+  ],
+  "mensal": {
+    "1": 14451,
+    "2": 13232,
+    "3": 13929,
+    "4": 16147,
+    "5": 17381,
+    "6": 15465,
+    "7": 17648,
+    "8": 18016,
+    "9": 20918,
+    "10": 20833,
+    "11": 16632,
+    "12": 13461
+  },
+  "dia_pico": "2025-10-01",
+  "chamados_dia_pico": 1233,
+  "media_jan_jun": 15100.833333333334,
+  "media_set_out": 20875.5,
+  "delta_total": 5774.666666666666,
+  "principais_contribuicoes": [
+    {
+      "Serviço": "Dúvida / Apoio",
+      "Media_Jan_Jun": 2149.6666666666665,
+      "Media_Set_Out": 5329.0,
+      "Delta": 3179.3333333333335,
+      "Contribuicao_Liquida_pct": 55.056568921727084
+    },
+    {
+      "Serviço": "Falha no Clique Retire",
+      "Media_Jan_Jun": 820.8333333333334,
+      "Media_Set_Out": 1981.5,
+      "Delta": 1160.6666666666665,
+      "Contribuicao_Liquida_pct": 20.09928422996998
+    },
+    {
+      "Serviço": "Falha na emissão da nota fiscal de transferência / devolução",
+      "Media_Jan_Jun": 98.66666666666667,
+      "Media_Set_Out": 557.5,
+      "Delta": 458.8333333333333,
+      "Contribuicao_Liquida_pct": 7.945624567074577
+    },
+    {
+      "Serviço": "Configuração de Aplicativos / Sistema Operacional",
+      "Media_Jan_Jun": 115.33333333333333,
+      "Media_Set_Out": 336.0,
+      "Delta": 220.66666666666669,
+      "Contribuicao_Liquida_pct": 3.821288386054029
+    },
+    {
+      "Serviço": "Falha em equipamento",
+      "Media_Jan_Jun": 1461.1666666666667,
+      "Media_Set_Out": 1675.5,
+      "Delta": 214.33333333333326,
+      "Contribuicao_Liquida_pct": 3.711613945970906
+    },
+    {
+      "Serviço": "Ligação improdutiva",
+      "Media_Jan_Jun": 549.1666666666666,
+      "Media_Set_Out": 733.0,
+      "Delta": 183.83333333333337,
+      "Contribuicao_Liquida_pct": 3.1834449318864007
+    },
+    {
+      "Serviço": "Restart de Equipamentos",
+      "Media_Jan_Jun": 70.16666666666667,
+      "Media_Set_Out": 252.0,
+      "Delta": 181.83333333333331,
+      "Contribuicao_Liquida_pct": 3.1488108981759404
+    },
+    {
+      "Serviço": "LIMPA em Caixa",
+      "Media_Jan_Jun": 217.0,
+      "Media_Set_Out": 370.5,
+      "Delta": 153.5,
+      "Contribuicao_Liquida_pct": 2.658162087277765
+    },
+    {
+      "Serviço": "Atividades internas da Automação",
+      "Media_Jan_Jun": 243.83333333333334,
+      "Media_Set_Out": 373.0,
+      "Delta": 129.16666666666666,
+      "Contribuicao_Liquida_pct": 2.2367813438005077
+    },
+    {
+      "Serviço": "Falha na emissão da nota fiscal de venda",
+      "Media_Jan_Jun": 110.0,
+      "Media_Set_Out": 225.5,
+      "Delta": 115.5,
+      "Contribuicao_Liquida_pct": 2.0001154467790347
+    }
+  ],
+  "gini": [
+    {
+      "Período": "Ano de 2025",
+      "Serviços no universo": 333,
+      "Chamados": 193622,
+      "Gini": 0.8909305438108983,
+      "Participação top 10 (%)": 66.96708018716882
+    },
+    {
+      "Período": "Jan a Jun",
+      "Serviços no universo": 333,
+      "Chamados": 86244,
+      "Gini": 0.8939289226613563,
+      "Participação top 10 (%)": 66.76638374843468
+    },
+    {
+      "Período": "Set a Out",
+      "Serviços no universo": 333,
+      "Chamados": 41687,
+      "Gini": 0.9031485968180861,
+      "Participação top 10 (%)": 70.41283853479501
+    }
+  ],
+  "insatisfacao_portal_sla": [
+    {
+      "Atraso_SLA": 0,
+      "Respostas": 533,
+      "Insatisfeitos": 4,
+      "Taxa": 0.0075046904315197,
+      "IC_Inferior": 0.0029221857205193706,
+      "IC_Superior": 0.0191354602122423
+    },
+    {
+      "Atraso_SLA": 1,
+      "Respostas": 5083,
+      "Insatisfeitos": 275,
+      "Taxa": 0.05410190832185717,
+      "IC_Inferior": 0.04821293328764983,
+      "IC_Superior": 0.0606643461212299
+    }
+  ],
+  "temas": [
+    {
+      "Tema": "Problema não resolvido",
+      "Insatisfeitos com menção": 88,
+      "Comentários de insatisfeitos": 261,
+      "Menção entre insatisfeitos (%)": 33.71647509578544,
+      "Outros respondentes com menção": 6,
+      "Menção entre outros (%)": 0.6779661016949152
+    },
+    {
+      "Tema": "Agilidade elogiada",
+      "Insatisfeitos com menção": 18,
+      "Comentários de insatisfeitos": 261,
+      "Menção entre insatisfeitos (%)": 6.896551724137931,
+      "Outros respondentes com menção": 251,
+      "Menção entre outros (%)": 28.361581920903955
+    },
+    {
+      "Tema": "Demora ou espera",
+      "Insatisfeitos com menção": 17,
+      "Comentários de insatisfeitos": 261,
+      "Menção entre insatisfeitos (%)": 6.513409961685824,
+      "Outros respondentes com menção": 12,
+      "Menção entre outros (%)": 1.3559322033898304
+    },
+    {
+      "Tema": "Atendimento elogiado",
+      "Insatisfeitos com menção": 14,
+      "Comentários de insatisfeitos": 261,
+      "Menção entre insatisfeitos (%)": 5.363984674329502,
+      "Outros respondentes com menção": 314,
+      "Menção entre outros (%)": 35.48022598870057
+    },
+    {
+      "Tema": "Encerramento sem solução",
+      "Insatisfeitos com menção": 13,
+      "Comentários de insatisfeitos": 261,
+      "Menção entre insatisfeitos (%)": 4.980842911877394,
+      "Outros respondentes com menção": 1,
+      "Menção entre outros (%)": 0.11299435028248588
+    },
+    {
+      "Tema": "Reincidência",
+      "Insatisfeitos com menção": 9,
+      "Comentários de insatisfeitos": 261,
+      "Menção entre insatisfeitos (%)": 3.4482758620689653,
+      "Outros respondentes com menção": 0,
+      "Menção entre outros (%)": 0.0
+    },
+    {
+      "Tema": "Falta de retorno",
+      "Insatisfeitos com menção": 7,
+      "Comentários de insatisfeitos": 261,
+      "Menção entre insatisfeitos (%)": 2.681992337164751,
+      "Outros respondentes com menção": 1,
+      "Menção entre outros (%)": 0.11299435028248588
+    }
+  ],
+  "amostras_ml": [
+    {
+      "Amostra": "Treino para seleção",
+      "Chamados": 57539,
+      "Início de criação": "2025-01-01",
+      "Fim de criação": "2025-08-29",
+      "Dentro do prazo": 698,
+      "Acima do prazo": 56841,
+      "Atrasos (%)": 98.7869097481708,
+      "Portal (%)": 97.51125323693495,
+      "Rápidos (%)": 0.001737951650185092
+    },
+    {
+      "Amostra": "Validação",
+      "Chamados": 19387,
+      "Início de criação": "2025-09-01",
+      "Fim de criação": "2025-10-31",
+      "Dentro do prazo": 188,
+      "Acima do prazo": 19199,
+      "Atrasos (%)": 99.03027802135452,
+      "Portal (%)": 97.2094702635787,
+      "Rápidos (%)": 0.0
+    },
+    {
+      "Amostra": "Treino final",
+      "Chamados": 78050,
+      "Início de criação": "2025-01-01",
+      "Fim de criação": "2025-10-31",
+      "Dentro do prazo": 886,
+      "Acima do prazo": 77164,
+      "Atrasos (%)": 98.86483023702755,
+      "Portal (%)": 97.4375400384369,
+      "Rápidos (%)": 0.0012812299807815502
+    },
+    {
+      "Amostra": "Teste",
+      "Chamados": 17106,
+      "Início de criação": "2025-11-01",
+      "Fim de criação": "2025-12-28",
+      "Dentro do prazo": 72,
+      "Acima do prazo": 17034,
+      "Atrasos (%)": 99.57909505436689,
+      "Portal (%)": 97.77271132935812,
+      "Rápidos (%)": 0.0
+    }
+  ],
+  "validacao_arvore": [
+    {
+      "Modelo": "Árvore",
+      "Parametro": 8,
+      "Precision": 0.9903027802135451,
+      "Recall": 1.0,
+      "F1": 0.9951277665474525,
+      "AUC_ROC": 0.8795891131297842,
+      "Average_Precision": 0.9982299192012799,
+      "Accuracy": 0.9903027802135451,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0,
+      "Segundos": 0.045303250080905855
+    },
+    {
+      "Modelo": "Árvore",
+      "Parametro": 12,
+      "Precision": 0.9903027802135451,
+      "Recall": 1.0,
+      "F1": 0.9951277665474525,
+      "AUC_ROC": 0.8671505220240859,
+      "Average_Precision": 0.9980048448963194,
+      "Accuracy": 0.9903027802135451,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0,
+      "Segundos": 0.05646079208236188
+    },
+    {
+      "Modelo": "Árvore",
+      "Parametro": 4,
+      "Precision": 0.9903027802135451,
+      "Recall": 1.0,
+      "F1": 0.9951277665474525,
+      "AUC_ROC": 0.8196281000894328,
+      "Average_Precision": 0.9965910286863546,
+      "Accuracy": 0.9903027802135451,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0,
+      "Segundos": 0.036800208035856485
+    }
+  ],
+  "validacao_knn": [
+    {
+      "Modelo": "KNN",
+      "Parametro": 31,
+      "Precision": 0.9903027802135451,
+      "Recall": 1.0,
+      "F1": 0.9951277665474525,
+      "AUC_ROC": 0.7597761075765249,
+      "Average_Precision": 0.9954819227558379,
+      "Accuracy": 0.9903027802135451,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0
+    },
+    {
+      "Modelo": "KNN",
+      "Parametro": 15,
+      "Precision": 0.9903027802135451,
+      "Recall": 1.0,
+      "F1": 0.9951277665474525,
+      "AUC_ROC": 0.7130617119907618,
+      "Average_Precision": 0.9944806151677175,
+      "Accuracy": 0.9903027802135451,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0
+    },
+    {
+      "Modelo": "KNN",
+      "Parametro": 5,
+      "Precision": 0.9903478889232993,
+      "Recall": 0.9993749674462211,
+      "F1": 0.9948409509242216,
+      "AUC_ROC": 0.6093980127511074,
+      "Average_Precision": 0.9924216234477566,
+      "Accuracy": 0.9897353896941249,
+      "Especificidade": 0.005319148936170213,
+      "Acuracia_Balanceada": 0.5023470581911956,
+      "Alertas_pct": 99.93294475679579
+    }
+  ],
+  "teste": [
+    {
+      "Modelo": "Referência",
+      "Precision": 0.9957909505436688,
+      "Recall": 1.0,
+      "F1": 0.9978910369068541,
+      "AUC_ROC": 0.5,
+      "Average_Precision": 0.9957909505436688,
+      "Accuracy": 0.9957909505436688,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0,
+      "Treino_s": 0.0008383330423384905,
+      "Previsao_s": 9.637500625103712e-05
+    },
+    {
+      "Modelo": "Árvore",
+      "Precision": 0.9957909505436688,
+      "Recall": 1.0,
+      "F1": 0.9978910369068541,
+      "AUC_ROC": 0.9172247824612214,
+      "Average_Precision": 0.9994417250701673,
+      "Accuracy": 0.9957909505436688,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0,
+      "Treino_s": 0.0475937919691205,
+      "Previsao_s": 0.0053978749783709645
+    },
+    {
+      "Modelo": "KNN",
+      "Precision": 0.9957909505436688,
+      "Recall": 1.0,
+      "F1": 0.9978910369068541,
+      "AUC_ROC": 0.856076653881779,
+      "Average_Precision": 0.9988673878609866,
+      "Accuracy": 0.9957909505436688,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0,
+      "Treino_s": 0.025032041943632066,
+      "Previsao_s": 8.239592291996814
+    }
+  ],
+  "grupos_teste": [
+    {
+      "Grupo": "Portal",
+      "Modelo": "Árvore",
+      "Chamados": 16725,
+      "Dentro": 71,
+      "Acima": 16654,
+      "Prevalencia": 0.9957548579970105,
+      "Precision": 0.9957548579970105,
+      "Recall": 1.0,
+      "F1": 0.9978729141076725,
+      "AUC_ROC": 0.9168156531358198,
+      "Average_Precision": 0.9994360051285295,
+      "Accuracy": 0.9957548579970105,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0
+    },
+    {
+      "Grupo": "Portal",
+      "Modelo": "KNN",
+      "Chamados": 16725,
+      "Dentro": 71,
+      "Acima": 16654,
+      "Prevalencia": 0.9957548579970105,
+      "Precision": 0.9957548579970105,
+      "Recall": 1.0,
+      "F1": 0.9978729141076725,
+      "AUC_ROC": 0.8556989227305711,
+      "Average_Precision": 0.9988535830908499,
+      "Accuracy": 0.9957548579970105,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0
+    },
+    {
+      "Grupo": "Phone",
+      "Modelo": "Árvore",
+      "Chamados": 381,
+      "Dentro": 1,
+      "Acima": 380,
+      "Prevalencia": 0.9973753280839895,
+      "Precision": 0.9973753280839895,
+      "Recall": 1.0,
+      "F1": 0.9986859395532195,
+      "AUC_ROC": 1.0,
+      "Average_Precision": 0.9999999999999999,
+      "Accuracy": 0.9973753280839895,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0
+    },
+    {
+      "Grupo": "Phone",
+      "Modelo": "KNN",
+      "Chamados": 381,
+      "Dentro": 1,
+      "Acima": 380,
+      "Prevalencia": 0.9973753280839895,
+      "Precision": 0.9973753280839895,
+      "Recall": 1.0,
+      "F1": 0.9986859395532195,
+      "AUC_ROC": 0.868421052631579,
+      "Average_Precision": 0.999403959241344,
+      "Accuracy": 0.9973753280839895,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0
+    },
+    {
+      "Grupo": "Portal, 36 s ou mais",
+      "Modelo": "Árvore",
+      "Chamados": 16725,
+      "Dentro": 71,
+      "Acima": 16654,
+      "Prevalencia": 0.9957548579970105,
+      "Precision": 0.9957548579970105,
+      "Recall": 1.0,
+      "F1": 0.9978729141076725,
+      "AUC_ROC": 0.9168156531358198,
+      "Average_Precision": 0.9994360051285295,
+      "Accuracy": 0.9957548579970105,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0
+    },
+    {
+      "Grupo": "Portal, 36 s ou mais",
+      "Modelo": "KNN",
+      "Chamados": 16725,
+      "Dentro": 71,
+      "Acima": 16654,
+      "Prevalencia": 0.9957548579970105,
+      "Precision": 0.9957548579970105,
+      "Recall": 1.0,
+      "F1": 0.9978729141076725,
+      "AUC_ROC": 0.8556989227305711,
+      "Average_Precision": 0.9988535830908499,
+      "Accuracy": 0.9957548579970105,
+      "Especificidade": 0.0,
+      "Acuracia_Balanceada": 0.5,
+      "Alertas_pct": 100.0
+    }
+  ],
+  "modelo_escolhido": "Árvore",
+  "matrizes": {
+    "Referência": [
+      [
+        0,
+        72
+      ],
+      [
+        0,
+        17034
+      ]
+    ],
+    "Árvore": [
+      [
+        0,
+        72
+      ],
+      [
+        0,
+        17034
+      ]
+    ],
+    "KNN": [
+      [
+        0,
+        72
+      ],
+      [
+        0,
+        17034
+      ]
+    ]
+  }
+}

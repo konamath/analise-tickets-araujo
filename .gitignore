@@ -1,0 +1,37 @@
+# Bases e documentos originais locais
+dados/*
+!dados/README.md
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*.parquet
+*.pkl
+*.pickle
+*.docx
+*.pdf
+
+# Credenciais e configurações locais
+.env
+.env.*
+*.pem
+*.key
+.aws/
+.ssh/
+.config/
+
+# Ambientes, caches e intermediários
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+.vscode/
+.idea/
+work/
+*.executado.ipynb
